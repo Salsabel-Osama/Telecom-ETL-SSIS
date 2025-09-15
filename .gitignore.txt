@@ -1,0 +1,12 @@
+# Ignore Visual Studio
+.vs/
+*.vsidx
+
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
+
+# Ignore Python cache
+__pycache__/
+*.pyc
